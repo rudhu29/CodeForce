@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
-- [implementation](#implementation) (2)
+- [brute force](#brute-force) (3)
+- [implementation](#implementation) (3)
+- [math](#math) (1)
 - [strings](#strings) (2)
 
 ---
@@ -24,6 +25,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
 ### implementation
 
@@ -31,6 +33,13 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
 ### strings
 
