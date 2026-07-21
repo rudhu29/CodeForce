@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 5 |
+| 7 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (3)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -40,6 +40,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
 ### math
@@ -56,6 +57,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 
 ---
 
