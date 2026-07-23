@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 8 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (6)
-- [math](#math) (4)
+- [math](#math) (5)
 - [strings](#strings) (5)
 
 ---
@@ -56,6 +56,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
@@ -75,6 +76,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
