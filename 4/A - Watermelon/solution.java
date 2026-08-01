@@ -7,8 +7,8 @@ public class Main {
         if (scanner.hasNextInt()) {
             int w = scanner.nextInt();
             
-            // Check if weight is even and greater than 2
-            if (w % 2 == 0 && w > 2) {
+            // Check if the weight is even and greater than 2
+            if (w > 2 && w % 2 == 0) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
