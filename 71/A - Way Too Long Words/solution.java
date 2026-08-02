@@ -5,26 +5,25 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         
         // Read the number of words
-        if (!scanner.hasNextInt()) {
-            return;
-        }
         int n = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline character
         
+        // Loop through each word
         for (int i = 0; i < n; i++) {
-            String word = scanner.nextLine();
-            int length = word.length();
+            String word = scanner.next();
             
             // Check if the word is strictly longer than 10 characters
-            if (length > 10) {
-                char firstChar = word.charAt(0);
-                char lastChar = word.charAt(length - 1);
-                int middleCount = length - 2;
+            if (word.length() > 10) {
+                // Get the first character
+                char first = word.charAt(0);
+                // Get the last character
+                char last = word.charAt(word.length() - 1);
+                // Calculate the number of characters between the first and last
+                int middleCount = word.length() - 2;
                 
                 // Print the abbreviation
-                System.out.println("" + firstChar + middleCount + lastChar);
+                System.out.println("" + first + middleCount + last);
             } else {
-                // Print the original word if it's not too long
+                // Print the word as it is
                 System.out.println(word);
             }
         }
