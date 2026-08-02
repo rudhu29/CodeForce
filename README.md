@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 9 |
+| 23 | 9 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -78,6 +78,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
@@ -109,6 +110,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
 ---
