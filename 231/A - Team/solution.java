@@ -1,25 +1,27 @@
 import java.util.Scanner;
  
-public class Team {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
+        // Read the number of problems
         int n = scanner.nextInt();
-        int implementedCount = 0;
+        int count = 0;
         
+        // Process each problem
         for (int i = 0; i < n; i++) {
             int petya = scanner.nextInt();
             int vasya = scanner.nextInt();
             int tonya = scanner.nextInt();
             
-            // If at least two friends are sure about the solution (sum >= 2)
+            // If at least two friends are sure about the solution
             if (petya + vasya + tonya >= 2) {
-                implementedCount++;
+                count++;
             }
         }
         
-        System.out.println(implementedCount);
-        
+        // Print the total number of problems they will implement
+        System.out.println(count);
         scanner.close();
     }
 }
