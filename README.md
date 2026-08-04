@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 9 |
+| 25 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
@@ -79,6 +79,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
