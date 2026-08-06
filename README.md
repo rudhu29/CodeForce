@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 9 |
+| 27 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (10)
@@ -70,6 +70,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/200/B%20-%20Drinks/solution.py) |
