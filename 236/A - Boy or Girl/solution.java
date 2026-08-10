@@ -1,26 +1,24 @@
 import java.util.Scanner;
-import java.util.HashSet;
  
 public class Main {
     public static void main(String[] args) {
-        // Create a Scanner object to read input
+        // Create a scanner object to read input from the console
         Scanner scanner = new Scanner(System.in);
-        String username = scanner.nextLine().trim();
+        
+        if (scanner.hasNext()) {
+            String username = scanner.next();
+            
+            // Count the distinct characters in the username
+            long distinctCount = username.chars().distinct().count();
+            
+            // Check if the number of distinct characters is even or odd
+            if (distinctCount % 2 == 0) {
+                System.out.println("CHAT WITH HER!");
+            } else {
+                System.out.println("IGNORE HIM!");
+            }
+        }
+        
         scanner.close();
-        
-        // HashSet to store unique characters
-        HashSet<Character> distinctChars = new HashSet<>();
-        
-        // Loop through the string and add each character to the HashSet
-        for (char c : username.toCharArray()) {
-            distinctChars.add(c);
-        }
-        
-        // Check if the number of unique characters is even or odd
-        if (distinctChars.size() % 2 == 0) {
-            System.out.println("CHAT WITH HER!");
-        } else {
-            System.out.println("IGNORE HIM!");
-        }
     }
 }
