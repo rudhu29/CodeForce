@@ -1,32 +1,23 @@
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
  
-public class Magnets {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        int n = Integer.parseInt(reader.readLine());
         
-        // Read the number of magnets
-        int n = scanner.nextInt();
+        int groups = 0;
+        String prev = "";
         
-        // Read the first magnet
-        String prevMagnet = scanner.next();
-        int groupCount = 1; // At least one group exists if n >= 1
-        
-        // Loop through the remaining magnets
-        for (int i = 1; i < n; i++) {
-            String currentMagnet = scanner.next();
-            
-            // If the current magnet is different from the previous one, it's a new group
-            if (!currentMagnet.equals(prevMagnet)) {
-                groupCount++;
+        for (int i = 0; i < n; i++) {
+            String current = reader.readLine();
+            if (!current.equals(prev)) {
+                groups++;
+                prev = current;
             }
-            
-            // Update the previous magnet for the next iteration
-            prevMagnet = currentMagnet;
         }
         
-        scanner.close();
-        
-        // Output the total number of groups
-        System.out.println(groupCount);
+        System.out.println(groups);
     }
 }
