@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 11 |
+| 43 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (32)
+- [implementation](#implementation) (33)
 - [math](#math) (9)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -87,6 +87,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.java) |
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
