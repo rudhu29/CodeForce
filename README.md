@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 12 |
+| 47 | 13 |
 
 ---
 
@@ -14,13 +14,14 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (34)
 - [math](#math) (9)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (12)
@@ -46,6 +47,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 66B | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | 1100 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/66/B%20-%20Petya%20and%20Countryside/solution.java) |
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.java) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
@@ -135,6 +137,12 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 
 ### shortest paths
 
