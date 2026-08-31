@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 13 |
+| 48 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -98,6 +98,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/133/A%20-%20HQ9%2B/solution.java) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.java) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
