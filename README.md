@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 13 |
+| 58 | 13 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
@@ -50,6 +50,7 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/268/A%20-%20Games/solution.py) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
