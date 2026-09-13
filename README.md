@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 13 |
+| 59 | 13 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (43)
+- [implementation](#implementation) (44)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (3)
-- [strings](#strings) (14)
+- [sortings](#sortings) (4)
+- [strings](#strings) (15)
 
 ---
 
@@ -105,6 +105,7 @@
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/133/A%20-%20HQ9%2B/solution.java) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.java) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
@@ -170,6 +171,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
@@ -185,6 +187,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
