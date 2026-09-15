@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 13 |
+| 61 | 14 |
 
 ---
 
@@ -17,11 +17,12 @@
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
+- [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (45)
-- [math](#math) (14)
-- [number theory](#number-theory) (1)
+- [math](#math) (15)
+- [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (5)
 - [strings](#strings) (15)
@@ -69,6 +70,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### graph matchings
 
@@ -155,6 +162,7 @@
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.py) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### number theory
@@ -162,6 +170,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### shortest paths
 
