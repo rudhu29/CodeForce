@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 14 |
+| 62 | 14 |
 
 ---
 
@@ -14,18 +14,18 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (45)
+- [implementation](#implementation) (46)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (5)
-- [strings](#strings) (15)
+- [strings](#strings) (16)
 
 ---
 
@@ -54,6 +54,7 @@
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/268/A%20-%20Games/solution.py) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
 ### constructive algorithms
@@ -142,6 +143,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
@@ -206,6 +208,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
 ---
