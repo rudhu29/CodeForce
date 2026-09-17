@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 14 |
+| 63 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (46)
+- [implementation](#implementation) (47)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -127,6 +127,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/344/A%20-%20Magnets/solution.java) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/427/A%20-%20Police%20Recruits/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
