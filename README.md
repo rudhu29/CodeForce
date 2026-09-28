@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 15 |
+| 71 | 15 |
 
 ---
 
@@ -14,17 +14,17 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (12)
+- [brute force](#brute-force) (13)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (51)
-- [math](#math) (17)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (52)
+- [math](#math) (18)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
 
@@ -57,6 +57,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
 ### constructive algorithms
@@ -98,6 +99,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
 ### implementation
@@ -152,6 +154,7 @@
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
+| 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1692/A%20-%20Marathon/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
@@ -171,6 +174,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.py) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
@@ -200,6 +204,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
