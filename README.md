@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 81 | 15 |
+| 82 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (58)
+- [implementation](#implementation) (59)
 - [math](#math) (23)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
@@ -164,6 +164,7 @@
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1692/A%20-%20Marathon/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
+| 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1722/A%20-%20Spell%20Check/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
