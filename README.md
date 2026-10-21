@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 15 |
+| 85 | 16 |
 
 ---
 
@@ -21,8 +21,9 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (13)
 - [implementation](#implementation) (61)
-- [math](#math) (24)
+- [math](#math) (25)
 - [number theory](#number-theory) (3)
+- [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (17)
@@ -182,6 +183,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
@@ -213,6 +215,12 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/rudhu29/CodeForce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
 
 ### shortest paths
 
