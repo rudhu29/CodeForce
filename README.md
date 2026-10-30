@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 16 |
+| 87 | 16 |
 
 ---
 
@@ -19,14 +19,14 @@
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (13)
-- [implementation](#implementation) (61)
+- [greedy](#greedy) (14)
+- [implementation](#implementation) (63)
 - [math](#math) (25)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (7)
-- [strings](#strings) (17)
+- [sortings](#sortings) (8)
+- [strings](#strings) (18)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -103,6 +103,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
@@ -146,6 +147,7 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/427/A%20-%20Police%20Recruits/solution.java) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
@@ -175,6 +177,7 @@
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
@@ -235,6 +238,7 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
@@ -260,6 +264,7 @@
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [Java 21](https://github.com/rudhu29/CodeForce/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.java) |
 
 ### two pointers
